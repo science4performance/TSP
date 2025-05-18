@@ -1,0 +1,54 @@
+Depart Sunday 18th May
+
+wk | pay Expected Date
+Sun 5/18/2025 | 201 : Putney Br - Boughton-u-Bleam
+Mon 5/19/2025 | 202 : Boughton-u-Bleam - Rye
+Tue 5/20/2025 | 203 : Rye - Bracklesham (€ Wittering)
+Wed 5/21/2025 | 204 : Bracklesham - Bournmouth
+Thu 5/22/2025 | 205 : Bournemouth - Exmouth (Starcross ferry)
+Fri 5/23/2025 | a06 : Exmouth - Gunnislake
+Sat 5/24/2025 | Rest day
+sun 5/25/2025 | 207 : Gunnislake - Falmouth
+Mon 5/26/2025 | a08 : Falmouth - St Ives
+Tue 5/27/2025 | a09 : St Ives - Bude
+Wed 5/28/2025 | a10 : Bude - Ilfracombe]
+Thu 5/29/2025 | 11 : Hfracombe - Clevedon
+Fi 5/30/2025 | 212 : Clevedon - Barry
+Sat 5/31/2025 | 213 : Barry - Gowerton
+sun 06/01/2025 | a4 : Gowerton - Johnstone
+Mon 06/02/2025 | a15 : Johnstone - Aberaeron
+Tue 06/03/2025 | a16 : Aberaeron - Pwllheli
+Wed 06/04/2025 | a17 : Pwllheli - Hollyhead
+Thu 06/05/2025 | 218 : Hollyhead - Penryhn Bay
+Fi 06/06/2025 | 219 : Penryhn Bay - Southport
+Sat 06/07/2025 | 220 : Southport - Morecambe
+Sun 06/08/2025 | 321: Morecambe - Holmrook
+Von 06/09/2025 | 22 : Holmrook - Dumfries
+Tue 06/10/2025 | 323 : Dumfries - Monrieth
+Wed 06/11/2025 | a24 : Monreith - Ballantrae
+Thu 06/12/2025 | a25 : Ballantrae - Gourock (Ferry)
+Fri 6/13/2025 | 26 : Dunoon - Oban
+Sat 6/14/2025 | 227 : Oban - Malaig
+Sun 6/15/2025 | 228 : Malaig - Ug
+Mon 6/16/2025 | 229 : Ug -Shieldaig
+Tue 6/17/2025 | 230: shieldaig - Ullapool
+Wed 6/18/2025 | 231: Ullapool - Kylesku
+Thu 6/19/2025 | a32 : Kylescu -Keoldale Ferry
+Thu 6/19/2025 | a32ii : Keoldale - Wrath (return), Tongue
+Fri 6/20/2025 | 233 : Tongue - Wick
+Sat 6/21/2025 | 234: Wick - Invergordon
+Sun 6/22/2025 | 235 : Invergordon - Lossiemouth
+Mon 6/23/2025 | a36 : Lossiemouth - Aberdeen
+Tue 6/24/2025 | 237 : Aberdeen - St Andrews
+Wed 6/25/2025 | 238 : St Andrews - North Berwick
+Thu 6/26/2025 | 239 : North Berwick - Alnwick
+Fri 6/27/2025 | 240 : Alnwick - Redcar
+sat 6/28/2025 | 341 : Redcar - Withernsea
+sun 6/29/2025 | a42 : Withernsea - Chapel st Leonards
+Mon 6/30/2025 | 243 : Chapel st Leonards - Burnham Overy Staithe
+Tue 07/01/2025 | a44 : Burnham Overy Staithe - Southwold
+Wed 07/02/2025 | a45 : Southwold - Clacton-On-Sea
+Thu 07/03/2025 | a4 : Clacton-on-Sea - Tilbury
+Fri 07/04/2025 | 247 : Tilbury - Queen Square
+Fri 07/04/2025 | 248 : Queen sq - Putney Bridge
+
